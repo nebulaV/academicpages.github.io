@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Simiao Yu"
 title_separator          : "-"
 name                     : &name "Simiao Yu"
-description              : &description ""
+description              : &description "PhD Student at Data Science Institute, Imperial College London"
 url                      : https://nebulaV.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nebulaV.github.io"
@@ -84,7 +84,7 @@ author:
   location         : "London, UK"
   employer         :
   googlescholar    :
-  email            :
+  email            : simiao.yu13@imperial.ac.uk
   uri              :
   bitbucket        :
   codepen          :
