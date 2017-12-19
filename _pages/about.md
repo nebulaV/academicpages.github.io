@@ -21,7 +21,7 @@ My research interest is deep generative models towards creativity in computer vi
 
 # Recent Work
 ***
-- DAGAN: Deep De-Aliasing Generative Adversarial Networks for Fast Compressed Sensing MRI Reconstruction, IEEE Trans. Med. Imaging (to appear), 2017. (with Yang, G., et al., co-first author) [[paper]() (to appear)] [[code](https://github.com/nebulaV/DAGAN)]
+- DAGAN: Deep De-Aliasing Generative Adversarial Networks for Fast Compressed Sensing MRI Reconstruction, IEEE Trans. Med. Imaging (to appear), 2017. (with Yang, G., et al., co-first author) [paper (to appear)] [[code](https://github.com/nebulaV/DAGAN)]
 
 - Deep De-Aliasing for Fast Compressive Sensing MRI, arXiv:1705.07137, 2017. (with Dong, H., et al., co-first author) [[paper](https://arxiv.org/abs/1705.07137)]
 
