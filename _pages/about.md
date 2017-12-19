@@ -15,7 +15,7 @@ My research interest is deep generative models towards creativity in computer vi
 ***
 - [12/2017] Our paper "DAGAN: Deep De-Aliasing Generative Adversarial Networks for Fast Compressed Sensing MRI Reconstruction" has been accepted in IEEE Transactions on Medical Imaging (IEEE TMI).
 
-- [10/2017] We won the [best open-source software award](http://www.acmmm.org/2017/mm-2017-awardees/) at ACM-MM 2017! ([slides link])(https://github.com/shorxp/tensorlayer-chinese/blob/master/docs/TensorLayer%20ACM%20MM.pdf))
+- [10/2017] We won the [best open-source software award](http://www.acmmm.org/2017/mm-2017-awardees/) at ACM-MM 2017! ([slides link](https://github.com/shorxp/tensorlayer-chinese/blob/master/docs/TensorLayer%20ACM%20MM.pdf))
 
 - [06/2017] Our paper "Semantic Image Synthesis via Adversarial Learning" has been accepted in ICCV 2017.
 
