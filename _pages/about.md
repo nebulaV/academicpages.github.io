@@ -13,6 +13,8 @@ My research interest is deep generative models towards creativity in computer vi
 
 # News
 ***
+- [02/2018] Our official [TensorLayer book](http://www.broadview.com.cn/book/5059) (in Chinese) is published.
+
 - [12/2017] Our paper "DAGAN: Deep De-Aliasing Generative Adversarial Networks for Fast Compressed Sensing MRI Reconstruction" has been accepted in IEEE Transactions on Medical Imaging (IEEE TMI).
 
 - [10/2017] We won the [best open-source software award](http://www.acmmm.org/2017/mm-2017-awardees/) at ACM-MM 2017! [[slides](https://github.com/shorxp/tensorlayer-chinese/blob/master/docs/TensorLayer%20ACM%20MM.pdf)]
@@ -21,7 +23,9 @@ My research interest is deep generative models towards creativity in computer vi
 
 # Recent Work
 ***
-- DAGAN: Deep De-Aliasing Generative Adversarial Networks for Fast Compressed Sensing MRI Reconstruction, IEEE Trans. Med. Imaging (to appear), 2017. (with Yang, G., et al., co-first author) [paper (to appear)] [[code](https://github.com/nebulaV/DAGAN)]
+- Deep Learning using TensorLayer (in Chinese), Beijing: Publishing House of Electronics Industry, 2018. (with Dong, H., et al.) [[book](http://www.broadview.com.cn/book/5059)]
+
+- DAGAN: Deep De-Aliasing Generative Adversarial Networks for Fast Compressed Sensing MRI Reconstruction, IEEE Trans. Med. Imaging (to appear), 2018. (with Yang, G., et al., co-first author) [[paper](https://ieeexplore.ieee.org/document/8233175/)] [[code](https://github.com/nebulaV/DAGAN)]
 
 - Deep De-Aliasing for Fast Compressive Sensing MRI, arXiv:1705.07137, 2017. (with Dong, H., et al., co-first author) [[paper](https://arxiv.org/abs/1705.07137)]
 
