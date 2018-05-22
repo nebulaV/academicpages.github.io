@@ -23,6 +23,8 @@ My research interest is deep generative models towards creativity in computer vi
 
 # Recent Work
 ***
+- Generative Creativity: Adversarial Learning for Bionic Design, arXiv:1805.07615, 2018. (with Dong, H., et al., first author) [[paper](https://arxiv.org/abs/1805.07615)]
+
 - Deep Learning using TensorLayer (in Chinese), Beijing: Publishing House of Electronics Industry, 2018. (with Dong, H., et al.) [[book](http://www.broadview.com.cn/book/5059)]
 
 - DAGAN: Deep De-Aliasing Generative Adversarial Networks for Fast Compressed Sensing MRI Reconstruction, IEEE Trans. Med. Imaging (to appear), 2018. (with Yang, G., et al., co-first author) [[paper](https://ieeexplore.ieee.org/document/8233175/)] [[code](https://github.com/nebulaV/DAGAN)]
