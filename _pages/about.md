@@ -23,14 +23,14 @@ My research interest is deep generative models towards creativity in computer vi
 
 # Recent Work
 ***
-- Generative Creativity: Adversarial Learning for Bionic Design, arXiv:1805.07615, 2018. (with Dong, H., et al., first author) [[paper](https://arxiv.org/abs/1805.07615)]
+- Spatial Feature Combination for Generative Creativity: A Case Study of Bionic Design, NIPS Workshop on Machine Learning for Creativity and Design, 2018. (first author)
 
-- Deep Learning using TensorLayer (in Chinese), Beijing: Publishing House of Electronics Industry, 2018. (with Dong, H., et al.) [[book](http://www.broadview.com.cn/book/5059)]
+- Deep Learning using TensorLayer (in Chinese), Beijing: Publishing House of Electronics Industry, 2018. [[book](http://www.broadview.com.cn/book/5059)]
 
-- DAGAN: Deep De-Aliasing Generative Adversarial Networks for Fast Compressed Sensing MRI Reconstruction, IEEE Trans. Med. Imaging 37 (6): 1310-1321 (2018). (with Yang, G., et al., co-first author) [[paper](https://ieeexplore.ieee.org/document/8233175/)] [[code](https://github.com/nebulaV/DAGAN)]
+- DAGAN: Deep De-Aliasing Generative Adversarial Networks for Fast Compressed Sensing MRI Reconstruction, IEEE Trans. Med. Imaging 37 (6): 1310-1321, 2018. (co-first author) [[paper](https://ieeexplore.ieee.org/document/8233175/)] [[code](https://github.com/nebulaV/DAGAN)]
 
-- Deep De-Aliasing for Fast Compressive Sensing MRI, arXiv:1705.07137, 2017. (with Dong, H., et al., co-first author) [[paper](https://arxiv.org/abs/1705.07137)]
+- Deep De-Aliasing for Fast Compressive Sensing MRI, arXiv:1705.07137, 2017. (co-first author) [[paper](https://arxiv.org/abs/1705.07137)]
 
-- TensorLayer: a Versatile Library for Efficient Deep Learning Development, in ACM-MM, 2017. (with Dong, H., et al.) [[paper](https://arxiv.org/abs/1707.08551)]
+- TensorLayer: a Versatile Library for Efficient Deep Learning Development, in ACM-MM, 2017. [[paper](https://arxiv.org/abs/1707.08551)]
 
-- Semantic Image Synthesis via Adversarial Learning, in ICCV, 2017. (with Dong, H., et al., co-first author) [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Dong_Semantic_Image_Synthesis_ICCV_2017_paper.pdf)]
+- Semantic Image Synthesis via Adversarial Learning, in ICCV, 2017. (co-first author) [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Dong_Semantic_Image_Synthesis_ICCV_2017_paper.pdf)]
